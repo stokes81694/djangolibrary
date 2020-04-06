@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96709aef-e4a5-4dae-b9cc-9b5eb47bddc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,32 +63,75 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py@locallibrary" value="30" />
+          <entry key="py" value="1" />
+          <entry key="py@locallibrary" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CommandLine" value="30" />
+          <entry key="CommandLine" value="49" />
+          <entry key="Python" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locallibrary/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1929" />
+            <state relative-caret-position="132">
+              <caret line="134" column="25" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="31" lean-forward="true" selection-start-line="7" selection-end-line="33" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../locallibrary/venv/Lib/site-packages/django/views/generic/list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/locallibrary/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -110,6 +152,10 @@
       <find>templ</find>
       <find>side</find>
       <find>get</find>
+      <find>catalog</find>
+      <find>selec</find>
+      <find>select</find>
+      <find>catal</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,11 +182,11 @@
         <option value="$PROJECT_DIR$/catalog/models.py" />
         <option value="$PROJECT_DIR$/catalog/forms.py" />
         <option value="$PROJECT_DIR$/catalog/templates/catalog/book_renew_librarian.html" />
-        <option value="$PROJECT_DIR$/catalog/views.py" />
         <option value="$PROJECT_DIR$/catalog/author_form.html" />
         <option value="$PROJECT_DIR$/catalog/templates/catalog/author_confirm_delete.html" />
         <option value="$PROJECT_DIR$/catalog/urls.py" />
         <option value="$PROJECT_DIR$/locallibrary/settings.py" />
+        <option value="$PROJECT_DIR$/catalog/views.py" />
       </list>
     </option>
   </component>
@@ -150,7 +196,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="730" />
     <option name="y" value="35" />
     <option name="width" value="1200" />
@@ -176,8 +222,7 @@
             <path>
               <item name="djangolibrary" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangolibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="djangolibrary" type="b2602c69:ProjectViewProjectNode" />
@@ -330,7 +375,6 @@
     <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/book_list.html" />
     <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/book_detail.html" />
     <entry file="file://$PROJECT_DIR$/catalog/templates/index.html" />
-    <entry file="file://$PROJECT_DIR$/locallibrary/urls.py" />
     <entry file="file://$PROJECT_DIR$/templates/registration/login.html" />
     <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_done.html" />
     <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_email.html" />
@@ -338,19 +382,61 @@
     <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_form.html" />
     <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_complete.html" />
     <entry file="file://$PROJECT_DIR$/templates/registration/logout.html" />
-    <entry file="file://$PROJECT_DIR$/catalog/admin.py" />
     <entry file="file://$PROJECT_DIR$/catalog/templates/base_generic.html" />
-    <entry file="file://$PROJECT_DIR$/catalog/models.py" />
     <entry file="file://$PROJECT_DIR$/catalog/forms.py" />
     <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/author_form.html" />
     <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/author_confirm_delete.html" />
     <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/book_renew_librarian.html" />
     <entry file="file://$PROJECT_DIR$/catalog/urls.py" />
     <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/bookinstance_list_borrowed_user.html" />
-    <entry file="file://$PROJECT_DIR$/catalog/views.py" />
+    <entry file="file://$PROJECT_DIR$/catalog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locallibrary/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/migrations/0003_auto_20200405_2146.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/locallibrary/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1929" />
+        <state relative-caret-position="132">
+          <caret line="134" column="25" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../locallibrary/venv/Lib/site-packages/django/views/generic/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="31" lean-forward="true" selection-start-line="7" selection-end-line="33" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
